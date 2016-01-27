@@ -1,0 +1,38 @@
+/* -*- mode: css; indent-tabs-mode: nil; tab-width: 4 -*- */
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+
+body {
+padding: 5em 0 3em;
+}
+
+.ui.text.container {
+
+}
+
+.ui.menu a.header.item img.logo {
+margin-right: 1em;
+}
+
+.hero {
+padding-top: 3em;
+}
+.hero h2, .hero .description {
+max-width: 640px;
+margin: 0 auto;
+font-family: Roboto, 'Open Sans', Lato, sans-serif;
+font-weight: 300;
+line-height: 1.5em;
+text-align: center;
+}
+.hero .description {
+font-size: 1.4em;
+}
+.hero .divider.narrow {
+max-width: 65%;
+margin-left: auto;
+margin-right: auto;
+}
+
+.header.thin {
+font-weight: 300;
+}

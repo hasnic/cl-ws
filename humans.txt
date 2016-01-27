@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+    <name> -- <role> -- <twitter>
+    Yodanto -- Developer -- @yodanto
+
+# THANKS
+
+    Carol M. Poluan
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    Sculpin, Semantic-UI
