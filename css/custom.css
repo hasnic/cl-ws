@@ -36,3 +36,9 @@ margin-right: auto;
 .header.thin {
 font-weight: 300;
 }
+
+.ui.container footer {
+margin: 2em 0 3em;
+padding: 2em 0;
+border-top: 1px dashed #aaa;
+}
